@@ -1,0 +1,3 @@
+module QTSlocadora {
+	requires junit;
+}
